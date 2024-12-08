@@ -2,7 +2,9 @@ body {
     background-color: rgb(92, 97, 97);
     color: rgb(235, 234, 232);
 }
+
+
 p a {
     text-decoration: none;
-    color: rgb(233, 209, 32);
+    color: rgb(0, 224, 249);
 }
